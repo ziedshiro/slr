@@ -1,1 +1,1 @@
-web: gunicorn slrsite.wsgi --log-file -
+web: gunicorn slrsite.wsgi
