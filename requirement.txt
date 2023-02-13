@@ -13,3 +13,6 @@ pandas
 scikit-learn
 scipy
 tensorflow
+dj-database-url
+gunicorn
+psycopg2
