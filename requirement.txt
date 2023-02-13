@@ -1,0 +1,15 @@
+gunicorn
+Django
+skia-python
+joblib
+keras
+matplotlib
+matplotlib-inline
+mediapipe
+numpy
+opencv-python
+packaging
+pandas
+scikit-learn
+scipy
+tensorflow
